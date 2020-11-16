@@ -1,6 +1,6 @@
 This project is forked from [Austin Huang's franz-recipe-textnow](https://github.com/austinhuang0131/franz-recipe-textnow) which is under the [MIT license](https://raw.githubusercontent.com/austinhuang0131/franz-recipe-textnow/master/LICENSE).
 
-## franz-recipe-textnow
+## franz-recipe-textnow-electron
 TextNow Electron recipe for Franz 5.
 
 ### TextNow Electron?
